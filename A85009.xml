@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three letters from His Excellency Sir Thomas Fairfax, and the officers and soldiers under his command. Two of them to the Parliaments commissioners now with the army, and by them sent up to the Parliament. The third to the Lord Major, aldermen and Common-Councel of the City of London, of the farther answer of the army, concerning the charge against the eleven members. And the grounds of the armies nearer advance to the Parliament and City of London. Also the result of a councel of war at Vxbridge, June 26. 1647. about quartering the army. By the appointment of his Excellency Sir Tho: Fairfax, and the councel of war. Barkhamstead, June 25. 1647. Signed John Rushworth.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85009</idno><idno type="EEBO-CITATION">99862125</idno>
+  <idno type="VID">160328</idno>
+  <idno type="EEBO-PROQUEST">2240952747</idno>
+  
+            <idno type="STC">Wing F241</idno>
+            <idno type="STC">Thomason E394_11</idno>
+            <idno type="STC">ESTC R201625</idno>
+            <idno type="PROQUEST">99862125</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862125e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160328)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three letters from His Excellency Sir Thomas Fairfax, and the officers and soldiers under his command. Two of them to the Parliaments commissioners now with the army, and by them sent up to the Parliament. The third to the Lord Major, aldermen and Common-Councel of the City of London, of the farther answer of the army, concerning the charge against the eleven members. And the grounds of the armies nearer advance to the Parliament and City of London. Also the result of a councel of war at Vxbridge, June 26. 1647. about quartering the army. By the appointment of his Excellency Sir Tho: Fairfax, and the councel of war. Barkhamstead, June 25. 1647. Signed John Rushworth.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Rushworth, John, 1612?-1690.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 28. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letters, which are dated June 24-26, 1647, are all signed by John Rushworth.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term type="corporate_name">City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160328:1"/>
+            <p>THREE LETTERS From His Excellency Sir Thomas Fairfax, AND The Officers and Soldiers under His Command.</p>
+            <p>Two of them to the Parliaments Commissioners now with the Army, and by them sent up to the Parliament.</p>
+            <p>The third to the Lord Major, Aldermen and Common-Councel of the City of LONDON, Of the farther Answer of the Army, concerning <hi>The Charge against the Eleven</hi> MEMBERS.</p>
+            <p>AND The Grounds of the Armies nearer Advance to the Par<g ref="char:EOLhyphen"/>liament and City of <hi>London.</hi>
+            </p>
+            <p>Also the Result of a Councel of WAR at <hi>Ʋxbridge, June</hi> 26. 1647. about Quartering the Army.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>BY the appointment of his Excellency Sir <hi>Tho: Fairfax,</hi> and the Councel of War.</p>
+                        <closer>
+                           <dateline>Barkhamstead, <date>June 25. 1647.</date>
+                           </dateline>
+                           <signed>Signed JOHN RUSHWORTH.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Laurence Chapman,</hi> IUNE 28. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:160328:2"/>
+            <head>The Result of a Councel of War at <hi>Vxbridge, June</hi> 26. 1647. about Quartering the Army.</head>
+            <p>IT was last night resolved by the General and Councel of War, for present not to Advance any of the Army nearer <hi>London;</hi> but whereas the Foot (being all quartered then at <hi>Watford, Ʋx<g ref="char:EOLhyphen"/>bridge</hi> and <hi>Colebrook</hi>) were very troublesome and burthensome to those places, It was only Ordered, That the quarters of the Foot should be inlarged for the ease of those places; whereupon (by a mistake of that Resolution in the setting out of quarters) some Regiments had quarters assigned for inlargement at places lying much forwarder towards <hi>London,</hi> as far as <hi>Harrow on the Hill, Hayes, Cranford, Harlington, Bedfont, Feltham</hi> and <hi>Han<g ref="char:EOLhyphen"/>worth;</hi> This morning, so soon as this was understood by the General and the Officers, there were Orders immediately sent out to stop the Regiments, and now none quartered nearer <hi>London</hi> then <hi>Watford, Rislip, Ikeham, Hellindon, Cowley, Dray<g ref="char:EOLhyphen"/>ton, Hamsworth, Stanwel</hi> and <hi>Stanes,</hi> which make a line about fifteen or sixteen miles distance from <hi>London:</hi> And to avoid any disquieting to the Parliament or City upon future apprehensions, His Excellency and His Officers do promise, That there shall be no farther Advance, either of the Army, or any quarters of it, any nearer to <hi>London,</hi> without timely notice thereof, and of the Reasons of it, to the Parliament and City.</p>
+            <closer>
+               <dateline>UXBRIDGE, <date>June 26. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excel<g ref="char:EOLhyphen"/>lency Sir <hi>Thomas Fairfax, and</hi> the Councel of War. <hi>JOHN RUSHWORTH.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:160328:2"/>
+            <head>To the Right Honorable, The Commissioners of Parliament at St. <hi>Albans:</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N answer to the Letters of the House of Commons which we received from you this day, ex<g ref="char:EOLhyphen"/>pressing their readiness to receive any particulars, and to hear any Witnesses against the Gentlemen imp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ched by the Army; we shall be bold to minde you, That the Remonstrance sent to you the last night, to be presented to the Houses, do ex<g ref="char:EOLhyphen"/>press the Desires of the Army to have the Members charged to be suspended from sit<g ref="char:EOLhyphen"/>ting in the House, which (if not granted to us) we know their interest and prevalency is such, That we can expect but small fruit in a
+<pb n="4" facs="tcp:160328:3"/> further proceeding, except the Desires of the Army be answered therein: Nor can we hope for good to the Kingdom, or settlement of an happy Peace, as long as men of their interests and prevalency have power to justi<g ref="char:EOLhyphen"/>fie themselves and practises; who, that they may be able to effect it, do endeavor by all means possible to inflame this Kingdom in a second War; To which we shall be forced to the uttermost of our powers to apply a timely remedy, as being the onely way and means we know of to prevent the involving this Nation again in Blood, then which no<g ref="char:EOLhyphen"/>thing is more odious unto us.</p>
+            <closer>
+               <dateline>St. Albans, <date>June 24. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Ex<g ref="char:EOLhyphen"/>cellency Sir <hi>Tho: Fairfax,</hi> and the Councel of War. <hi>JOHN RUSHWORTH.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:160328:3"/>
+            <head>To the Right Honorable, The Lords and Commons Commissioners of Par<g ref="char:EOLhyphen"/>liament in the ARMY.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>IN answer to your Desire of a reason of the Armies motion this day, I thought fit to let you know, That our Quarters are more contracted, but not nearer <hi>London</hi> then they were before, namely, at <hi>Watford, Uxbridge,</hi> and the Towns about them: We have often said we cannot stand as lookers on, to see the King<g ref="char:EOLhyphen"/>dom ruined by the obstruction and denial of Justice; and therefore we desire you to move the Parliament we may not be held still in doubt, and put upon the disputes of their commands, to which we shall yield ready obedience, when we see the Kingdom in a pos<g ref="char:EOLhyphen"/>sibility of setlement, which we think cannot be, un<g ref="char:EOLhyphen"/>less that the fountain of Justice be delivered from those that corrupt it.</p>
+            <closer>
+               <dateline>Barkhamstead, <date>June 25. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellency Sir <hi>Tho: Fairfax,</hi> and his Coun<g ref="char:EOLhyphen"/>cel of War. <hi>JOHN RUSHWORTH.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:160328:4"/>
+            <head>To the Right Honorable, The Lord Major, Aldermen and Common-Councel of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>WE have in all things dealt clearly and plainly with you, and hope we shall continue still to do so: As soon as the wor<g ref="char:EOLhyphen"/>thy Aldermen and the other two Gentlemen, your Commissioners, came the last night to us, we acquainted them with our purpose, to draw the Head-quarter to UXBRIDGE, that so we might contract our Quarters, which have hitherto lyen scattered; at which place we hope to receive that which will be satisfa<g ref="char:EOLhyphen"/>ction to the Kingdom, and will remove Ob<g ref="char:EOLhyphen"/>structions out of the way of Justice, where<g ref="char:EOLhyphen"/>in if right were done, we should let you and all the world see, That we would be so far from pressing near your City of <hi>London,</hi> it should be indifferent to us, to march not only to the distance prescribed, but to any part of the Kingdom we should be commanded to
+<pb n="7" facs="tcp:160328:4"/> by the Parliament: We have asked nothing hitherto but right, in the things that are known as if they were proved an hundred times before them from whom they have sought them; which if granted, would not onely be a justice to the Army, but would let the Kingdom see the Fountain in a way to be cleared, without which nothing of Force or Power would be a security to any man. We wish the name of PRIVILEDGES may not lie in the ballance with the Safety of a Kingdom, and the Reallity of a Kingdom, and the Reallity of doing Justice; which as we have said so often, we cannot expect whilest the persons we have accused are the Kingdoms and our Judges, a little delay will indanger the putting the Kingdom into Blood; notwithstanding what hath been said, if it be considered, That in <hi>Wales,</hi> besides under-hand workings in your City and other places, Men are raised, and that in no small number; and are not those men in the Parliament, who have continued faithful to the Principles of common interest from the
+<pb n="8" facs="tcp:160328:5"/> begining of this Parliament to this very day still awed by the concourse of Reformado-Officers and others to their doors; expence of Time will be their Advantage onely, who intend to bring evil purposes to pass. We have written this to you for your satisfa<g ref="char:EOLhyphen"/>ction, that so nothing may be done, without giving you a perfect Account of our Inten<g ref="char:EOLhyphen"/>tions and Ends, and still to continue out As<g ref="char:EOLhyphen"/>surance to you, That should Necessity bring us nearer to the City, our former Faith given you shall be observed inviolably, there being nothing more (next to the good of the King<g ref="char:EOLhyphen"/>dom) in our Thoughts and Desires, then the prosperity of your City.</p>
+            <closer>
+               <dateline>Barkhamstead, <date>June 25. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Ex<g ref="char:EOLhyphen"/>cellency Sir <hi>Tho: Fairfax,</hi> and the Councel of War. <hi>Signed JOHN RUSHWORTH.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
